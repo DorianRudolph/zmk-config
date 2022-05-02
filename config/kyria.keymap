@@ -39,7 +39,7 @@
    &kp GRAVE &kp F1    &kp F2    &kp F3   &kp F4   &kp F5                                                   &kp F6    &kp F7       &kp F8       &kp F9   &kp F10   &kp F11  
    &kp N1    &kp N2    &kp N3    &kp N4   &kp N5   &kp N6                                                   &kp N7    &kp N8       &kp N9       &kp N0   &kp MINUS &kp F12
    &none     &kp PG_DN &kp PG_UP &kp LBKT &kp RBKT &kp EQUAL &kp LSHFT    &kp LGUI       &kp TAB &kp RSHFT  &kp MINUS &kp LEFT     &kp DOWN     &kp UP   &kp RIGHT &none
-                                 &none    &none    &none     &mo LAYER_UP &kp SPACE      &kp DEL &kp SPACE  &mo LAYER_UP &kp C_PP  &kp K_VOL_DN &kp K_VOL_UP 
+                                 &none    &none    &none     &mo LAYER_UP &kp DEL        &kp RET &kp SPACE  &mo LAYER_UP &kp C_PP  &kp K_VOL_DN &kp K_VOL_UP 
 			>;
 			sensor-bindings = < &inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp C_BRI_DN C_BRI_UP >;
 		};
